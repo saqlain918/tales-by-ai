@@ -13,6 +13,7 @@ features:
   - Story Generation: Produces an engaging story that matches the intent and characters.
   - Toggle Display: Users can choose to show or hide the intent and thinking process after the story is generated.
   - Streamlit Frontend: Simple and interactive UI.
+
 tales-by-ai/
 │── app.py           # Streamlit frontend
 │── backend.py       # AI logic with Gemini API
